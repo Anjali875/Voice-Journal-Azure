@@ -1,4 +1,4 @@
-🪞 Voice Journal — To reflect back on your moments
+#🪞 Voice Journal — To reflect back on your moments
 
 This is a voice-first journaling app. Speak your thoughts, and the app transcribes them, senses the emotional tone, and responds with a short, warm reflection — no typing required.
 
